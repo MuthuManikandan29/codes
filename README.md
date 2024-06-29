@@ -1,2 +1,1 @@
-# HackerRank
-" My HackerRank solutions and daily progress "
+# just checking how it works...
